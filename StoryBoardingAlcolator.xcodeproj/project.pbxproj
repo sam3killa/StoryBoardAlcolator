@@ -15,7 +15,6 @@
 		8A1DFE021C5012FF00866372 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A1DFE001C5012FF00866372 /* LaunchScreen.storyboard */; };
 		8A1DFE0D1C5012FF00866372 /* StoryBoardingAlcolatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A1DFE0C1C5012FF00866372 /* StoryBoardingAlcolatorTests.m */; };
 		8A1DFE181C50130000866372 /* StoryBoardingAlcolatorUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A1DFE171C50130000866372 /* StoryBoardingAlcolatorUITests.m */; };
-		8A35610F1C52D3CF009C59D0 /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A35610E1C52D3CF009C59D0 /* MainMenuViewController.m */; };
 		8A8D143C1C504845002599F3 /* WhiskeyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A8D143B1C504845002599F3 /* WhiskeyViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -53,8 +52,6 @@
 		8A1DFE131C50130000866372 /* StoryBoardingAlcolatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoryBoardingAlcolatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A1DFE171C50130000866372 /* StoryBoardingAlcolatorUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoryBoardingAlcolatorUITests.m; sourceTree = "<group>"; };
 		8A1DFE191C50130000866372 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8A35610D1C52D3CF009C59D0 /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
-		8A35610E1C52D3CF009C59D0 /* MainMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuViewController.m; sourceTree = "<group>"; };
 		8A8D143A1C504845002599F3 /* WhiskeyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhiskeyViewController.h; sourceTree = "<group>"; };
 		8A8D143B1C504845002599F3 /* WhiskeyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhiskeyViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -114,8 +111,6 @@
 				8A8D143A1C504845002599F3 /* WhiskeyViewController.h */,
 				8A8D143B1C504845002599F3 /* WhiskeyViewController.m */,
 				8A1DFDFB1C5012FF00866372 /* Main.storyboard */,
-				8A35610D1C52D3CF009C59D0 /* MainMenuViewController.h */,
-				8A35610E1C52D3CF009C59D0 /* MainMenuViewController.m */,
 				8A1DFDFE1C5012FF00866372 /* Assets.xcassets */,
 				8A1DFE001C5012FF00866372 /* LaunchScreen.storyboard */,
 				8A1DFE031C5012FF00866372 /* Info.plist */,
@@ -284,7 +279,6 @@
 				8A8D143C1C504845002599F3 /* WhiskeyViewController.m in Sources */,
 				8A1DFDF71C5012FF00866372 /* AppDelegate.m in Sources */,
 				8A1DFDF41C5012FF00866372 /* main.m in Sources */,
-				8A35610F1C52D3CF009C59D0 /* MainMenuViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
